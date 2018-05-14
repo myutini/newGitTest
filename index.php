@@ -4,6 +4,6 @@
 	<title></title>
 </head>
 <body>
-Edit From Downloads
+Edit From Documents
 </body>
 </html>
